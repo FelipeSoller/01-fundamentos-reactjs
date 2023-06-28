@@ -1,11 +1,16 @@
+// JXS = JavaScript + XML (HTML)
 
-function App() {
+import { Post } from "./Post"
+
+export function App() {
 
   return (
-    <h1>
-      Hellow World!
-    </h1>
+    <div>
+      <Post />
+      <Post />
+      <Post />
+      <Post />
+      <Post />
+    </div>
   )
 }
-
-export default App
