@@ -1,7 +1,7 @@
 .post {
   background: var(--gray-800);
   border-radius: 8px;
-  padding: 2.5rem;
+  padding: 2.8rem;
 }
 
 .post+.post {
